@@ -1,1 +1,1 @@
-print("Hello, World")
+print("Hello, World") #print hello world in terminal (note that you kinda have to click twice for a R shell to open then for this to work in the R shell)
